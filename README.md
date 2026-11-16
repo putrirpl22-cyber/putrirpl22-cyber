@@ -17,4 +17,4 @@ Teknik
 
 
 🕊️ Kontak
-<p> <a href="https://instagram.com/ptrii_dwiii"><img src="https://img.shields.io/badge/Instagram-C0392B?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="mailto:emailmu@gmail.com"><img src="https://img.shields.io/badge/Email-2c3e50?style=for-the-badge&logo=gmail&logoColor=white"></a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:7b1e1e,100:c0392b&height=120&section=footer" width="100%"/> </p>
+<p> <a href="https://instagram.com/ptrii_dwiii"><img src="https://img.shields.io/badge/Instagram-C0392B?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="mailto:putri.rpl22@gmail.com"><img src="https://img.shields.io/badge/Email-2c3e50?style=for-the-badge&logo=gmail&logoColor=white"></a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:7b1e1e,100:c0392b&height=120&section=footer" width="100%"/> </p>
