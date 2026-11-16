@@ -1,4 +1,4 @@
-<p align="center"> <img src="assets/banner.jpg" alt="Banner" width="100%"> </p> <h1 align="center">⚔️ Hai, aku Putri ⚔️</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?" alt="Typing SVG" /> </p>
+<p align="center"> <img src="assets/banner.jpg" alt="Banner" width="100%"> </p> <h1 align="center">⚔️ Hai, aku Putri ⚔️</h1> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C0392B&center=true&vCenter=true&width=600&lines=Tatakae+%E2%80%94+Terus+berjuang+%F0%9F%94%A5;Bankai!+Naik+level+setiap+hari+%E2%9A%A1;Coder+%7C+Game+Dev+%7C+Anime+Lover" alt="Typing SVG"> </p>
 🗡️ 2000 Tahun Mulai Hari ini
 
 "If you win, you live. If you lose, you die. If you don't fight, you can't win!" — Eren Yeager, Attack on Titan
