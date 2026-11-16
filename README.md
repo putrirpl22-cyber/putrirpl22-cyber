@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="assets/poster.jpg" alt="Poster" width="100%">
+  <img src="assets/poster.jpg" alt="Poster" width="50%">
 </p> </p> <h1 align="center"> Hai, aku Putri 👋</h1> <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=C0392B&center=true&vCenter=true&width=850&height=40&lines=Selama+seseorang+masih+bernapas%2C+perjuangan+belum+berakhir.+%E2%80%94+%F0%9F%94%A5;Perubahan+tidak+bisa+dihindari.+Daripada+menolaknya%2C+lebih+baik+mengikuti+arus.+%E2%9A%A1;%7C+Tidak+ada+yang+bisa+mengalahkan+rasa+ingin+tahu+manusia." alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=C0392B&center=true&vCenter=true&width=850&height=40&lines=Selama+seseorang+masih+bernapas%2C+perjuangan+belum+berakhir.+%E2%80%94+%F0%9F%94%A5;Perubahan+tidak+bisa+dihindari.+Daripada+menolaknya%2C+lebih+baik+mengikuti+arus.+%E2%9A%A1;Tidak+ada+yang+bisa+mengalahkan+rasa+ingin+tahu+manusia." alt="Typing SVG">
 </p>
 
 🗡️ 2000 Tahun Mulai Hari ini
