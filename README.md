@@ -11,9 +11,9 @@
 Tech Stack
 <p> <img src="https://skillicons.dev/icons?i=js,html,css,git,vscode=dark" /> </p>
 Teknik
-🔥 JavaScript	▰▰▱▱▱	
-🐍 HTML & CSS	▰▰▰▱▱	
-🎨 Full Stack Dev	▰▰▱▱▱	
+<br>🔥 JavaScript	▰▰▱▱▱</br>	
+<br>🐍 HTML & CSS	▰▰▰▱▱	</br>
+<br>🎨 Full Stack Dev	▰▰▱▱▱	</br>
 
 
 🕊️ Kontak
