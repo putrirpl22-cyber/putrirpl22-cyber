@@ -6,7 +6,7 @@
 
 🗡️ 2000 Tahun Mulai Hari ini
 
-<blockquote>"If you win, you live. If you lose, you die. If you don't fight, you can't win!" <br>— Eren Yeager, Attack on Titan</br></blockquote>
+<blockquote>"If you win, you live. If you lose, you die. If you don't fight, you can't win!" <br>— Eren Yeager</br></blockquote>
 
 Tech Stack
 <p> <img src="https://skillicons.dev/icons?i=js,html,css,git,vscode=dark" /> </p>
