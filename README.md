@@ -1,10 +1,10 @@
 <p align="center"> <img src="assets/banner.jpg" alt="Banner" width="100%"> </p> <h1 align="center"> Hai, aku Putri 👋</h1> <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=C0392B&center=true&vCenter=true&width=850&height=40&lines=Selama+seseorang+masih+bernapas%2C+perjuangan+belum+berakhir.+%E2%80%94+%F0%9F%94%A5;Perubahan+tidak+bisa+dihindari.+Daripada+menolaknya%2C+lebih+baik+mengikuti+arus.+%E2%9A%A1;Coder+%7C+Game+Dev+%7C+Tidak+ada+yang+bisa+mengalahkan+rasa+ingin+tahu+manusia." alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=C0392B&center=true&vCenter=true&width=850&height=40&lines=Selama+seseorang+masih+bernapas%2C+perjuangan+belum+berakhir.+%E2%80%94+%F0%9F%94%A5;Perubahan+tidak+bisa+dihindari.+Daripada+menolaknya%2C+lebih+baik+mengikuti+arus.+%E2%9A%A1;%7C+Tidak+ada+yang+bisa+mengalahkan+rasa+ingin+tahu+manusia." alt="Typing SVG">
 </p>
 
 🗡️ 2000 Tahun Mulai Hari ini
 
-<blockquote>"If you win, you live. If you lose, you die. If you don't fight, you can't win!" — Eren Yeager, Attack on Titan</blockquote>
+<blockquote>"If you win, you live. If you lose, you die. If you don't fight, you can't win!" <br>— Eren Yeager, Attack on Titan</br>></blockquote>
 
 Tech Stack
 <p> <img src="https://skillicons.dev/icons?i=js,html,css,git,vscode=dark" /> </p>
